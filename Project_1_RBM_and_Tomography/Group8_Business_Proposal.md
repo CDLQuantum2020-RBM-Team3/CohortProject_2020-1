@@ -1,4 +1,4 @@
-Cohort Project](../figures/CDL_logo.jpg)
+[Cohort Project](../figures/CDL_logo.jpg)
 # Quantum Cohort Project Business Application
 
 For each weekly project, your team is asked to complete the below business application exercise.
